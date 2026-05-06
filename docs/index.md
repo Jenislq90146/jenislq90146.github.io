@@ -21,7 +21,8 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
   <h1>Jenis Patel</h1>
   <p><strong>Ecologist</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <p><em>'Two roads diverged in a yellow wood,
+And sorry I could not travel both - Robert Frost'</em></p>
 </div>
 
 ---
@@ -31,9 +32,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+
 
 I am an ecologist with research interests in spatial ecology, species distribution modelling, and con-
 servation biology. My work focuses on understanding how ecological processes operating at multiple
