@@ -55,7 +55,7 @@ growing prociency in Python for geospatial data processing. My research spans ve
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/jenis-CV.pdf){ .md-button }
 
 
 ---
