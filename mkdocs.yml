@@ -7,7 +7,7 @@ site_name: "Jenis Patel - Geospatial Portfolio"
 site_description: "Portfolio of Jenis patel — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Jenis Patel"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
- site_url: "https://jenislq90146.github.io/"
+site_url: "https://jenislq90146.github.io/"
 
 theme:
   name: material
