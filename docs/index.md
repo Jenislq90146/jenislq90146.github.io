@@ -19,8 +19,8 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
+  <h1>Jenis Patel</h1>
+  <p><strong>Ecologist</strong></p>
   <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
 </div>
 
@@ -35,11 +35,14 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am an ecologist with research interests in spatial ecology, species distribution modelling, and con-
+servation biology. My work focuses on understanding how ecological processes operating at multiple
+spatial and temporal scales shape biodiversity patterns, and how quantitative models can inform con-
+servation decisions. I have experience with hierarchical Bayesian models, biogeographic modelling,
+multi-species occupancy modelling, movement ecology, landscape-scale habitat suitability mapping
+using satellite imagery, and GPS telemetry. I work primarily in R and Google Earth Engine, with
+growing prociency in Python for geospatial data processing. My research spans vertebrate ecology
+(carnivores, birds) and freshwater invertebrate biomonitoring.
 
 </div>
 
