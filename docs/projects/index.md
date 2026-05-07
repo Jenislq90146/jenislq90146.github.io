@@ -25,4 +25,18 @@ Bayesian multi-species occupancy models. Published in *Journal of Zoology* (2024
 
 </div>
 
+<div class="project-card" markdown>
+
+![](../assets/images/placeholder-notebook.png)
+
+**[YOUR NOTEBOOK TITLE](your-notebook.ipynb)**
+
+[YOUR NOTEBOOK DESCRIPTION]
+
+`Python` `pandas` `[TOOL]`
+
+[View Notebook →](your-notebook.ipynb){ .md-button }
+
+</div>
+
 </div>
