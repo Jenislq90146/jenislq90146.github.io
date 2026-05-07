@@ -67,4 +67,16 @@ Thesis: *A multi-scale study of carnivore ecology in the high mountains of Asia.
 ### MSc in Environmental Science
 **Veer Narmad South Gujarat University, Surat** | *2012 – 2014*
 
-Dissertation: *Odon
+Dissertation: *Odonata assemblages and water quality in urban lakes.* Identified pollution-tolerant indicator species for rapid freshwater assessments.
+
+---
+
+### BSc in Biotechnology
+**Veer Narmad South Gujarat University, Surat** | *2007 – 2011*
+
+---
+
+## Grants & Awards
+
+- Rufford Small Grant for Nature Conservation (£5,753) — Principal Investigator, 2023
+- BNHS / Indian Bird Conservation Network Grant (£714) — Principal Investigator, 2015–2016
