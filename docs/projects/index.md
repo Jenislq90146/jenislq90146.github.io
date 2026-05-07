@@ -2,45 +2,27 @@
 hide:
   - toc
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace the two placeholder cards (marked [YOUR PROJECT ...]) with your real projects
-- [ ] For each project: add a thumbnail image to docs/assets/images/ and update the path below
-- [ ] For each project: create a project page by copying sample-project.md
-- [ ] For each project: add a nav entry in mkdocs.yml (see the comments there)
-- [ ] Delete placeholder cards you don't need yet
--->
 
 # Projects
 
-A selection of my geospatial projects. Click any card to see the full write-up.
+A selection of my ecological research projects. Click any card to see the full write-up.
 
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+![](../assets/images/project1-cover.png)
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+**[Carnivore Spatio-temporal Interactions, Western Himalaya](carnivore-himalaya.md)**
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+Examined how prey availability and intraguild interactions structure a six-species carnivore 
+assemblage across 26,000 km² of high-altitude Himachal Pradesh using camera traps and 
+Bayesian multi-species occupancy models. Published in *Journal of Zoology* (2024).
 
-[View Project →](sample-project.md){ .md-button }
-</div>
+`R` `Bayesian Occupancy Models` `Camera Traps` `Google Earth Engine`
 
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+[View Project →](carnivore-himalaya.md){ .md-button }
 
-**[Sample Notebook](sample-notebook.ipynb)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`Python` `pandas` `Folium`
-
-[View Project →](sample-notebook.ipynb){ .md-button }
 </div>
 
 </div>
